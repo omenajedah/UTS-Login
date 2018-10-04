@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS Firman</string>
+
+    <string name="text_welcome">Selamat Datang, %s\nAplikasi ini dibuat untuk belajar
+        dan menyelesaikan UTS Pemrograman Android.\nTerima Kasih telah mencoba aplikasi ini.</string>
+
+
+</resources>
