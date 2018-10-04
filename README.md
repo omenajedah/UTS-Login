@@ -1,4 +1,5 @@
 # UTS-Login
+Saya Firmansyah, Mahasiswa Pradita Kelas Malam
 Aplikasi ini memiliki 2 activity, yaitu Activity Login dan Activity Menu.
 
 # Screenshot
